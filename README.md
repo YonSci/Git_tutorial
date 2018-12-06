@@ -8,7 +8,7 @@ The whole project can be accessed either from:
 
 GitHub: <https://github.com/YonSci/Git_tutorial>
 
-Gitlab: <https://gitlab.com/YonSci/git_tutorial>
+GitLab: <https://gitlab.com/YonSci/git_tutorial>
 
 Bitbucket: <https://bitbucket.org/YonSci/git_tutorial>
 
